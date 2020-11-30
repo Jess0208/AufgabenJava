@@ -1,5 +1,7 @@
 class FitzQuark
 {
+    static FitzQuark CountFitzQuak = new FitzQuak;
+
     static boolean OutlayIsNumber(int _Number)
     {
         if      (_Number%5 == 0 || _Number%7 == 0)
