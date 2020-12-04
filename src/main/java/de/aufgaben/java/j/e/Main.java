@@ -7,8 +7,6 @@ public class Main {
         // First exercise: FitzQuark
         FitzQuarkClasse FitzQuark = new FitzQuarkClasse();
 
-        FitzQuarkClasse.IndexCounter();
-
-
+        FitzQuark.IndexCounter();
     }
 }
